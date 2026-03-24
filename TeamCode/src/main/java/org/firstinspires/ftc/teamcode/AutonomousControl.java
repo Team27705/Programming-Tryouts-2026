@@ -4,7 +4,7 @@ import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 
 
-@Autonomous(name = "", group = "Auto")
+@Autonomous(name = "Auto", group = "Auto")
 public class AutonomousControl extends LinearOpMode {
 
     public void runOpMode () {
@@ -15,7 +15,6 @@ public class AutonomousControl extends LinearOpMode {
         waitForStart();
 
         while (opModeIsActive()) {
-            //
 
         }
     }
