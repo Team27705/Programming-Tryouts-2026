@@ -1,7 +1,9 @@
 package org.firstinspires.ftc.teamcode;
 
 public class PushBot {
-
+    public static int WHEEL_RADIUS = 100; // in millimeters
+    public static int PULSES_PER_REVOLUTION = 28; // 28 ticks/pulses represents a single rotation on the motor
+    public static int MILLIMETERS_PER_INCHES; //
 
 
     //Todo: Part 1 Driver
