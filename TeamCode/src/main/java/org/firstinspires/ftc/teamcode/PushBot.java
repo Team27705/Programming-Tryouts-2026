@@ -13,7 +13,8 @@ public class PushBot {
      * The motors have two names "leftMotor" and "rightMotor"
      *
      * 1. Create methods to get leftMotor and rightMotor
-     * 2. Create a method that
+     * 2. Create a method to get the motor objects
+     * 3. Create a method to change the power of the motors with the joystick x and y axis as the inputs
      * */
     public PushBot () {
 
